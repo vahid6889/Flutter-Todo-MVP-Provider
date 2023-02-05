@@ -1,6 +1,6 @@
-# to_do_list
+ToDo App using State Management Provider implemented with MVP pattern
 
-A new Flutter project.
+Flutter project with Hive database
 
 ## Getting Started
 
